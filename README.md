@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @alealien666
  - 👀 I’m interested in web programming
- - ⚡ Fun fact: i like tokusatsu 🗿🗿🗿
+ - ⚡ Fun fact: i like tokusatsu 🗿🗿🗿🗿
  - ⚡ Fun fact 2: actually I am Ultraman
 
 <!---
