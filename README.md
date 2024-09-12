@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rynare" alt="rynare" /></a> </p>
 
-- 💬 Ask me about **Programming and Gaming**
+- 💬 Ask me about **Programming and Tokusatsu**
 
 - ⚡ Fun fact **actually I am Ultraman 🗿🗿🗿🗿**
 
