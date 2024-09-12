@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alealien666&show_icons=true&locale=en" alt="alealien666" /></p>
+
 
 - 💬 Ask me about **Programming and Tokusatsu**
 - ✨ **I Like Tokusatsu**
@@ -82,7 +84,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/>
 </a>
-
 </p>
+
 
 		
