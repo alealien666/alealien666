@@ -12,7 +12,7 @@
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=alealien666&show_icons=true&locale=en" alt="alealien666"/>
  <img src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="Anime GIF" width="200"/>
- <img src="https://media1.tenor.com/m/oDPX95e4-_4AAAAd/ultraman-mebius-gif.gif" alt="Anime GIF" width="255"/>
+ <img src="https://media1.tenor.com/m/oDPX95e4-_4AAAAd/ultraman-mebius-gif.gif" alt="Anime GIF" width="200"/>
 </p>
 
  
