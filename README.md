@@ -5,11 +5,12 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alealien666" alt="alealien666" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alealien666&theme=algolia" alt="alealien666" />
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alealien666&show_icons=true&locale=en" alt="alealien666" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alealien666&show_icons=true&locale=en&theme=tokyonight" alt="alealien666" /></p>
+
 
 
 - 💬 Ask me about **Programming and Tokusatsu**
