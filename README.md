@@ -9,10 +9,12 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alealien666&show_icons=true&locale=en" alt="alealien666" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alealien666&show_icons=true&locale=en" alt="alealien666"/>
+ &nbsp;&nbsp; <img src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="Anime GIF" width="200"  />
+</p>
 
-
-
+ 
 - 💬 Ask me about **Programming and Tokusatsu**
 - ✨ **I Like Tokusatsu**
 - ⚡ Fun fact **actually I am Ultraman 🗿🗿🗿🗿**
