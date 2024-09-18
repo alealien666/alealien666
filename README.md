@@ -15,7 +15,7 @@
 </p>
 
  
-- 💬 Ask me about **Programming and Tokusatsu**
+- 💬 Ask me about **Tokusatsu**
 - ✨ **I Like Tokusatsu**
 - ⚡ Fun fact **actually I am Ultraman 🗿🗿🗿🗿**
 
