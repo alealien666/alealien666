@@ -14,8 +14,6 @@
  &nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alealien666&show_icons=true&locale=en" alt="alealien666"/>
 </p>
 
- 
-- 💬 Ask me about **Tokusatsu**
 - ✨ **I Like Tokusatsu**
 - ⚡ Fun fact **actually I am Ultraman 🗿🗿🗿🗿**
 
