@@ -12,7 +12,6 @@
 <p>
  <img src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="Anime GIF" width="200"/>
  &nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alealien666&show_icons=true&locale=en" alt="alealien666"/>
-<img src="https://media1.tenor.com/m/56vKUG-96b4AAAAC/hoshitani-mikuru-takane-no-nadeshiko.gif" width="200">
 </p>
 
 - ✨ **I Like Tokusatsu**
