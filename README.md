@@ -88,14 +88,14 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alealien666/Alealien666/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alealien666/Alealien666/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alealien666/Alealien666/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alealien666/alealien666/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alealien666/alealien666/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alealien666/alealien666/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Alealien666/Alealien666/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alealien666/alealien666/output/snake.svg" alt="Snake animation" />
 
 ###
 
