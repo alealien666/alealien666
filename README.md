@@ -95,7 +95,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alealien666/alealien666/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lealien666/alealien666/output/snake.svg" alt="Snake animation" />
 
 ###
 
