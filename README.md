@@ -93,8 +93,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alealien666/Alealien666/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <img src="https://raw.githubusercontent.com/Alealien666/Alealien666/output/snake.svg" alt="Snake animation" />
 
 
